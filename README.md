@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dounia belkacem
-- 👀 I’m interested in front-end dev
+- 👀 I’m interested in ai (machine learning ,deep learning )
 
 
 
