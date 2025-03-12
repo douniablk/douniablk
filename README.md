@@ -7,7 +7,7 @@ Hey there!  I'm Dounia Belkacem, a first-year Master's student in Artificial Int
 
 Get in touch:
 
-- **Email:** dunya.belkacem@example.com
+- **Email:** dunya.belkacem@gmail.com
 - **LinkedIn:** [Dounia Belkacem](https://www.linkedin.com/in/dounia-belkacem-153269236)
 
 Thank you for visiting my profile and happy coding! 
